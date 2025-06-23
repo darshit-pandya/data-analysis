@@ -5,4 +5,4 @@ Used Car Price Estimation/Prediction
 - Determine corelation among data points
 - Conclude the analysis
 
-See the [EDA.pdf] (data-analysis/EDA.pdf) file in this repo. 
+See the [EDA.pdf](EDA.pdf) file in this repo. 
